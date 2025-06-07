@@ -1,0 +1,22 @@
+nav{
+    background-color: white;
+}
+  nav ul {
+    background-color: blueviolet;
+    list-style: none;
+    display: flex;    
+    justify-content: left;
+    padding: 20px;
+    margin-top: 0;
+  }
+  nav li{
+    padding: 5px;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+  }
+ 
+ 
+ 
